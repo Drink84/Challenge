@@ -1,0 +1,123 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(background.jpg);
+    }
+    
+.protest-revolution-regular {
+      font-family: "Protest Revolution", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+.contenitore{
+    width: 900px;
+    height: 600px;
+    border-radius: 2%;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+
+.box{
+  margin: 60px 90px 40px
+}
+
+
+/* codice header*/
+
+
+#dimensionelogo{
+  width: 160px;
+  height: auto;
+  margin-top: 45px;
+}
+
+.intestazione{
+    text-align: center;
+   
+    
+}
+
+h2{
+    font-family: Protest Revolution;
+    color: chartreuse;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+/* codice nav*/
+
+
+.navigazione{
+  background-color: chartreuse;
+  width: 700px;
+  height: 26px;
+  display: inline-block;
+  padding: 5px;
+  text-align: center;
+
+}
+
+form{
+ margin: auto;
+}
+
+.button{
+
+  font-size: 8px;
+  
+}
+
+/*codice main*/
+
+
+.principale{
+ 
+  display: inline-block;
+
+}
+
+h4{
+   display: inline-block;
+   color: white;
+   font-family:sans-serif;
+   margin-top: 20px;
+   margin-bottom: 4px;
+   padding: 0px;
+}
+
+.principale > span{
+    display: block;
+    width: 600px;
+    color: white;
+    font-size: smaller;
+    padding: 1px;
+    
+  
+}
+
+
+
+.statocarica{
+  background-color: orange;
+  border: 1px solid black;
+  width: 250px;
+  margin: 1px;
+  padding: 9px;
+}
+.statocarica1{
+    background-color: rgb(4, 94, 30);
+  border: 1px solid black;
+  width: 400px;
+  margin: 1px;
+  padding: 9px;
+}
+.statocarica2{
+    background-color: rgb(223, 26, 26);
+  border: 1px solid black;
+  width: 100px;
+  margin: 1px;
+  padding: 9px;
+}
